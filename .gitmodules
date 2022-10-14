@@ -1,0 +1,4 @@
+[submodule "repositorio"] 
+  path = repositorio
+  url = git://repositorio/
+
